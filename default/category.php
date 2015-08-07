@@ -12,8 +12,6 @@ defined('_JEXEC') or die;
 
 ?>
 
-+++
-
 <!-- Start K2 Category Layout -->
 <div class="row">
 <div class="col-xs-12">
@@ -268,4 +266,6 @@ defined('_JEXEC') or die;
 </div>
 </div> <!--//.COL-->
 </div> <!--//.ROW-->
+
+
 <!-- End K2 Category Layout -->
