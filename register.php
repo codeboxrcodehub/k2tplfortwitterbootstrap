@@ -14,7 +14,6 @@ defined('_JEXEC') or die;
 
 <!-- K2 user register form -->
 <?php if(isset($this->message)) $this->display('message'); ?>
-
 <div class="registration">
     <form action="<?php echo JURI::root(true); ?>/index.php" enctype="multipart/form-data" method="post" id="josForm" name="josForm" class="form-validate form-horizontal well">
         <?php if($this->params->def('show_page_title',1)): ?>
