@@ -1,1 +1,1 @@
-Joomla K2 component template fiels for Twitter bootstrap3
+Joomla K2 component template files for Twitter bootstrap3
